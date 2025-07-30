@@ -1,14 +1,3 @@
-/*
-If you want to know how this game was made, check out this video, that explains how it's made: 
-
-https://youtu.be/eue3UdFvwPo
-
-Follow him on twitter for more: https://twitter.com/HunorBorbely
-
-author : Hunor Marton Borbely 
-
-*/
-
 // Extend the base functionality of JavaScript
 Array.prototype.last = function () {
   return this[this.length - 1];
